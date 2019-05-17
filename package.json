@@ -1,0 +1,16 @@
+{
+  "name": "tagpro-streaming",
+  "version": "0.15.1",
+  "description": "Cloud-based streaming solution for TagPro games.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "puppeteer": "^1.16.0"
+  }
+}
