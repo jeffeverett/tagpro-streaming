@@ -1,0 +1,8 @@
+module.exports = {
+  "settings": {
+      "key": "keygoeshere",
+      "server": "auto",
+      "service": "Twitch"
+  },
+  "type": "rtmp_common"
+}
